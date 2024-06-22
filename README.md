@@ -1,8 +1,9 @@
 # Excel---World_population
 This repository contains a comprehensive world population dataset and a series of meaningful visualizations that illustrate the distributions of various categorical and continuous variables using different charts.
 ## Contents
-- Dataset        
-  - 'world_population.csv': Original dataset with formated and organized data ready for analysis
+- Dataset
+  - In this Dataset, we have Historical Population data for every Country in the world by different parameters like Area Size of the Country, Name of the Continent, Name of the Capital, Density, Population Growth Rate, Ranking based on Population, World Population Percentage, etc      
+  - 'world_population.csv': Cleaned dataset of world population with formated and organized data ready for analysis
 - Visualizations
   - 'area_vs_countries.csv': Line chart depicting the areas of various countries/continents
   - 'density_vs_countries.csv': Bar chart showing the values of density of different countries/continents
