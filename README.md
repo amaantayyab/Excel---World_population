@@ -2,7 +2,7 @@
 This repository contains a comprehensive world population dataset and a series of meaningful visualizations that illustrate the distributions of various categorical and continuous variables using different charts.
 ## Contents
 - Dataset        
-  -'world_population.csv': Original dataset with formated and organized data ready for analysis
+  - 'world_population.csv': Original dataset with formated and organized data ready for analysis
 - Visualizations
   - 'area_vs_countries.csv': Line chart depicting the areas of various countries/continents
   - 'density_vs_countries.csv': Bar chart showing the values of density of different countries/continents
